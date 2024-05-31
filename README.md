@@ -7,6 +7,7 @@ sdk: static
 pinned: false
 license: creativeml-openrail-m
 ---
+![alt text](assets/ttp.png)
 
 🪶Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
